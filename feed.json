@@ -10,5 +10,65 @@
         "name": "Kostee Hoover"
     },
     "items": [
+        {
+            "id": "https://ithuigan.com/mystical.html",
+            "url": "https://ithuigan.com/mystical.html",
+            "title": "MYSTICAL",
+            "author": {
+                "name": "Kostee Hoover"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-08-29T22:57:57+03:00",
+            "date_modified": "2026-08-29T22:57:57+03:00"
+        },
+        {
+            "id": "https://ithuigan.com/stories.html",
+            "url": "https://ithuigan.com/stories.html",
+            "title": "STORIES",
+            "author": {
+                "name": "Kostee Hoover"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-08-29T22:57:46+03:00",
+            "date_modified": "2026-08-29T22:57:46+03:00"
+        },
+        {
+            "id": "https://ithuigan.com/contact.html",
+            "url": "https://ithuigan.com/contact.html",
+            "title": "CONTACT",
+            "author": {
+                "name": "Kostee Hoover"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-08-29T22:57:40+03:00",
+            "date_modified": "2026-08-29T22:57:40+03:00"
+        },
+        {
+            "id": "https://ithuigan.com/art.html",
+            "url": "https://ithuigan.com/art.html",
+            "title": "ART",
+            "author": {
+                "name": "Kostee Hoover"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-08-29T22:57:33+03:00",
+            "date_modified": "2026-08-29T22:57:33+03:00"
+        },
+        {
+            "id": "https://ithuigan.com/links.html",
+            "url": "https://ithuigan.com/links.html",
+            "title": "LINKS",
+            "author": {
+                "name": "Kostee Hoover"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-08-29T22:57:11+03:00",
+            "date_modified": "2026-08-29T22:57:11+03:00"
+        }
     ]
 }
